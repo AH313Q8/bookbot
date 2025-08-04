@@ -1,2 +1,3 @@
-# bootdotdev-curriculum-bookbot
-My personal learning projects done in boot.dev
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
